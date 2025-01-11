@@ -23,5 +23,9 @@ to Databases at Columbia University
 
 <iframe src="https://calendar.google.com/calendar/embed?src=c_f29a8dd21b7beba8a935795ab394419355f85eafb613a86da455953433b5d2ee%40group.calendar.google.com&ctz=America%2FNew_York" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
+## Syllabus
+
+<iframe src="https://docs.google.com/document/d/e/2PACX-1vT5QIs14arj7yNfrBWCePwqfjD34-oQ76nNT1XZDaRxwMJRTiKrUL3zi2zpgPUkw1X77ZCLF9Cy3mFw/pub?embedded=true"></iframe>
+
 
 
