@@ -2,10 +2,14 @@
 
 ## Overview
 
-Repository for Donald F. Ferguson's section of _W4111-Introduction
-to Databases_ at Columbia University.
+GitHub pages and overview for the GitHub repository for Donald F. Ferguson's section of [W4111-Introduction
+to Databases](https://doc.sis.columbia.edu/#subj/COMS/W4111-20251-002/) at Columbia University.
+The repository is currently for the spring 2025 semester. The lecture is Friday from 10:10 AM to 12:40 PM in
+[207 Math.](https://registrar.columbia.edu/content/mathematics-classroom-information-and-photos)
 
-## Content and Syllabus
+## Course Overview, Content and Syllabus
+
+### Course Overview
 
 ### Course Content
 
@@ -15,7 +19,9 @@ to Databases_ at Columbia University.
     
 </iframe>
 
-## Homework Assignments and Examples
+## Exams, Homework Assignments and Grading
+
+Examples
 
 ## Calendar
 
