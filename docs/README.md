@@ -101,9 +101,13 @@ The midterm and final are "in classroom, written exams."
 
 ## Syllabus
 
+This is the tentative syllabus. There may be relatively minor changes.
+
 <iframe src="https://docs.google.com/document/d/e/2PACX-1vT5QIs14arj7yNfrBWCePwqfjD34-oQ76nNT1XZDaRxwMJRTiKrUL3zi2zpgPUkw1X77ZCLF9Cy3mFw/pub?embedded=true" height="900" width="700" scrolling="yes"></iframe>
 
 ## Calendar
+
+This is a draft calendar. We will adjust the calendar after discussion to TAs and initial student feedback.
 
 <iframe src="https://calendar.google.com/calendar/embed?src=c_f29a8dd21b7beba8a935795ab394419355f85eafb613a86da455953433b5d2ee%40group.calendar.google.com&ctz=America%2FNew_York" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
