@@ -101,7 +101,7 @@ The midterm and final are "in classroom, written exams."
 
 ## Syllabus
 
-<iframe src="https://docs.google.com/document/d/e/2PACX-1vT5QIs14arj7yNfrBWCePwqfjD34-oQ76nNT1XZDaRxwMJRTiKrUL3zi2zpgPUkw1X77ZCLF9Cy3mFw/pub?embedded=true"></iframe>
+<iframe src="https://docs.google.com/document/d/e/2PACX-1vT5QIs14arj7yNfrBWCePwqfjD34-oQ76nNT1XZDaRxwMJRTiKrUL3zi2zpgPUkw1X77ZCLF9Cy3mFw/pub?embedded=true" height="900" width="700" scrolling="yes"></iframe>
 
 ## Calendar
 
