@@ -111,6 +111,25 @@ This is a draft calendar. We will adjust the calendar after discussion to TAs an
 
 <iframe src="https://calendar.google.com/calendar/embed?src=c_f29a8dd21b7beba8a935795ab394419355f85eafb613a86da455953433b5d2ee%40group.calendar.google.com&ctz=America%2FNew_York" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
+## Your Teaching Team
+
+| <img src="./assets/donvader.jpg" width="300"> 
+|:---------------------------------------------:|
+|       __Prof. Donald (Darth) Ferguson__       |
+
+- My nickname at IBM was "Darth Don."
+- I love databases and teaching students.
+- When you do your homework, remember that _"Slow is smooth. Smooth is fast."_
+
+
+| <img src="./assets/ricky.png" width="300">
+| :---: |
+| __Yuehui (Ricky) Ruan__ |
+
+- Just calling me Ricky is fine!
+- Nothing to lose but the delicious food.
+- Magic software engineer intern at Hogwarts
+
 
 
 
