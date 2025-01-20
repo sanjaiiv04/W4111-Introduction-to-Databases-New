@@ -137,6 +137,14 @@ __Under Construction__
 - Just calling me Ricky is fine!
 - Nothing to lose but the delicious food.
 - Magic software engineer intern at Hogwarts
+  
+
+| <img src="./assets/JuanitaSantofimio.jpg" width="300"> 
+|:---------------------------------------------:|
+|       __Juanita Santofimio__       |
+
+- Senior, Information Sciences
+- Excited to meet everyone! Looking forward to seeing you in OH :)
 
 
 
