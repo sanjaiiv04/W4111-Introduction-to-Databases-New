@@ -19,12 +19,13 @@ logical design of relational databases, relational algebra, SQL, database applic
 database security, and an overview of query optimization and transaction processing. 
 
 Additional topics generally include NoSQL, graph, object-relational, and cloud databases, as well as data 
-preparation and cleaning of real-world data...
+preparation and cleaning of real-world data.
 
 The main topics in the course are:
 - Understanding the core types of data: _structured, semi-structured,_ and _unstructured._
 - How to design good data models, and how to specify them concretely with
-[entity-relationship](https://en.wikipedia.org/wiki/Entity%E2%80%93relationship_model) models and tools.
+[entity-relationship](https://en.wikipedia.org/wiki/Entity%E2%80%93relationship_model) models and tools. This
+includes understanding logical, conceptual and physical modeling.
 - How to translate and implement data models in specific types of databases.
 - The formal, rigorous foundation for data definition and manipulation:
   - [Relational Model](https://en.wikipedia.org/wiki/Relational_model)
@@ -33,13 +34,16 @@ The main topics in the course are:
 - How to effectively use relational databases and [Structured Query Language.](https://en.wikipedia.org/wiki/SQL)
 - Core concepts in database administration, including data security.
 - [NoSQL](https://en.wikipedia.org/wiki/NoSQL) databases: motivation, pros and cons, ... The course provides an
-overview of the most common NoSQL models, e.g. documents, graphs, key value, vector, ... ...
-This section of the course covers two NoSQL databases:
-  1. [MongoDB](https://en.wikipedia.org/wiki/MongoDB)
-  2. [Neo4j](https://en.wikipedia.org/wiki/Neo4j)
+overview of the most common NoSQL models, e.g. documents, graphs, key value, wide column, ... ...
+This section of the course provides more detail and experience two NoSQL databases:
+  1. [MongoDB](https://en.wikipedia.org/wiki/MongoDB) as an example of document databases.
+  2. [Neo4j](https://en.wikipedia.org/wiki/Neo4j) as an example of graph databases.
+  3. The course uses "cloud/SaaS" version of the databases, which the course also discussed.
 - Database storage mechanisms and storage/access optimization.
 - Identifying, defining and using [indexes](https://en.wikipedia.org/wiki/Database_index) to improve database
 query performance.
+- Implementing data integrity using database definition language constructs, native DB capabilities, and in
+application logic.
 - The basic concepts of [transactions,](https://en.wikipedia.org/wiki/Database_transaction),
 locking, recovery, [consistency models,](https://en.wikipedia.org/wiki/Consistency_model) ... 
 - Database scalability and availability.
@@ -47,8 +51,9 @@ locking, recovery, [consistency models,](https://en.wikipedia.org/wiki/Consisten
 [extract-transform-load]((https://en.wikipedia.org/wiki/Extract,_transform,_load))/[https://en.wikipedia.org/wiki/Extract,_load,_transform], data preparation and
 cleansing.
 - Data warehouse, data lake
-- [Pandas,](https://en.wikipedia.org/wiki/Pandas_(software)), [PySpark.](https://en.wikipedia.org/wiki/Apache_Spark)
-
+- Practical experience in data engineering using
+[Pandas,](https://en.wikipedia.org/wiki/Pandas_(software)) and [PySpark.](https://en.wikipedia.org/wiki/Apache_Spark).
+- The "web of interconnected data" and applications, with some details on REST and GraphQL.
 - The algorithms and techniques databases management systems use to process and optimize database queries.
 
 ### To Program, or not To Program, that is the Question
@@ -58,10 +63,10 @@ the course offers both _programming_ and _non-programming_ paths
 for homework and projects. 
 
 The obvious question is, "What constitutes
-programming?" It is hard if not impossible to use and work with a database without _some_ programming. Databases
-typically have some form of programming language for defining the structure of data and manipulating the data. 
-Relational databases use Structured Query _Language_ and web applications use the Graph Query _Language,_ both
-of which imply some form of programming. 
+programming?" It is hard if not impossible to use and work with a database without _some_ programming._ Databases
+typically have some form of "programming language" for defining the structure of data and manipulating the data. 
+Relational databases use Structured Query _Language._ Neo4j uses the Graph Query _Language,_ and the Cypher query
+language. This implies "some programming" is essential in using databases.  
 
 For the purposes of W4111, 
 
