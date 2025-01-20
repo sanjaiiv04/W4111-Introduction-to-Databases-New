@@ -147,5 +147,10 @@ __Under Construction__
 - Excited to meet everyone! Looking forward to seeing you in OH :)
 
 
+| <img src="./assets/aditi.jpeg" width="300"> 
+|:---------------------------------------------:|
+|       __Aditi Chowdhuri__       |
 
+- Graduate Student (MS in Computer Science)
+- I’m an explorer at heart—always on the hunt for cool places to visit.
 
