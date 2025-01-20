@@ -139,7 +139,7 @@ __Under Construction__
 - Magic software engineer intern at Hogwarts
   
 
-| <img src="./assets/JuanitaSantofimio.jpg" width="300"> 
+| <img src="./assets/JuanitaSantofimio.png" width="300"> 
 |:---------------------------------------------:|
 |       __Juanita Santofimio__       |
 
