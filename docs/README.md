@@ -154,3 +154,10 @@ __Under Construction__
 - Graduate Student (MS in Computer Science)
 - I’m an explorer at heart—always on the hunt for cool places to visit.
 
+| <img src="./assets/Pranitha.jpeg" width="300"> 
+|:---------------------------------------------:|
+|       __Pranitha Natarajen__       |
+
+- Graduate Student (MS in Computer Science)
+- Love reading dystopian novels and exploring diverse cuisines.
+- Thrilled to TA for this course again!
