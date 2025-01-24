@@ -116,12 +116,18 @@ This is a draft calendar. We will adjust the calendar after discussion to TAs an
 
 <iframe src="https://calendar.google.com/calendar/embed?src=c_f29a8dd21b7beba8a935795ab394419355f85eafb613a86da455953433b5d2ee%40group.calendar.google.com&ctz=America%2FNew_York" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
+## Lecture Material
+
+| Lecture No. | Lecture Date | Lecture Material |
+| :---: | :---: | :---: |
+| 1 | 2025-01-24 | [Introduction and Concepts](https://github.com/donald-f-ferguson/W4111-Introduction-to-Databases-New/blob/main/Lectures/S2025/Lectures/W4111-2024F-01-Introduction-Concetps/W4111-2025S-01-Introduction-Concepts-V1.pdf)
+
 ## Your Teaching Team
 
 __Under Construction__
 
 
-| <img src="./assets/donvader.jpg" width="300"> 
+| <img src="./assets/donvader.jpg" width="300"> |
 |:---------------------------------------------:|
 |       __Prof. Donald (Darth) Ferguson__       |
 
@@ -130,33 +136,33 @@ __Under Construction__
 - When you do your homework, remember that _"Slow is smooth. Smooth is fast."_
 
 
-| <img src="./assets/ricky.png" width="300">
-| :---: |
-| __Yuehui (Ricky) Ruan__ |
+| <img src="./assets/ricky.png" width="300"> |
+|:------------------------------------------:|
+|          __Yuehui (Ricky) Ruan__           |
 
 - Just calling me Ricky is fine!
 - Nothing to lose but the delicious food.
 - Magic software engineer intern at Hogwarts
   
 
-| <img src="./assets/JuanitaSantofimio.png" width="300"> 
-|:---------------------------------------------:|
-|       __Juanita Santofimio__       |
+| <img src="./assets/JuanitaSantofimio.png" width="300"> |
+|:------------------------------------------------------:|
+|                 __Juanita Santofimio__                 |
 
 - Senior, Information Sciences
 - Excited to meet everyone! Looking forward to seeing you in OH :)
 
 
-| <img src="./assets/aditi.jpeg" width="300"> 
-|:---------------------------------------------:|
-|       __Aditi Chowdhuri__       |
+| <img src="./assets/aditi.jpeg" width="300"> |
+|:-------------------------------------------:|
+|             __Aditi Chowdhuri__             |
 
 - Graduate Student (MS in Computer Science)
 - I’m an explorer at heart—always on the hunt for cool places to visit.
 
-| <img src="./assets/Pranitha.jpeg" width="300"> 
-|:---------------------------------------------:|
-|       __Pranitha Natarajen__       |
+| <img src="./assets/Pranitha.jpeg" width="300"> |
+|:----------------------------------------------:|
+|             __Pranitha Natarajen__             |
 
 - Graduate Student (MS in Computer Science)
 - Love reading dystopian novels and exploring diverse cuisines.
