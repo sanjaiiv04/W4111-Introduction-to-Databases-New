@@ -171,3 +171,11 @@ __Under Construction__
 - Graduate Student (MS in Computer Science)
 - Love reading dystopian novels and exploring diverse cuisines.
 - Thrilled to TA for this course again!
+
+| <img src="./assets/Gil.jpg" width="300"> |
+|:----------------------------------------------:|
+|             __Gil Laham__             |
+
+- GS Senior, Computer Science 
+- Glad to be a TA for this class again!
+
