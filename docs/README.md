@@ -2,10 +2,14 @@
 
 ## Overview
 
-Welcome to the GitHub pages and overview for the GitHub repository for Donald F. Ferguson's section of [W4111-Introduction
+Welcome to the GitHub pages and overview for the [GitHub repository](https://github.com/donald-f-ferguson/W4111-Introduction-to-Databases-New)
+for Donald F. Ferguson's section of [W4111-Introduction
 to Databases](https://doc.sis.columbia.edu/#subj/COMS/W4111-20251-002/) at Columbia University.
-The repository is currently for the spring 2025 semester. The lecture is Friday from 10:10 AM to 12:40 PM in
-[207 Math.](https://registrar.columbia.edu/content/mathematics-classroom-information-and-photos)
+The repository is currently for the spring 2025 semester. 
+
+The lecture is Friday from 10:10 AM to 12:40 PM in [207 Math.](https://registrar.columbia.edu/content/mathematics-classroom-information-and-photos)
+
+In general, Prof. Ferguson's Office Hours are 8:30 AM to 10:00 AM in 488 CSB.
 
 ## Course Overview, Content and Syllabus
 
