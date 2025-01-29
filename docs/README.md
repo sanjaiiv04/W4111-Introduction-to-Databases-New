@@ -139,6 +139,15 @@ __Under Construction__
 - I love databases and teaching students.
 - When you do your homework, remember that _"Slow is smooth. Smooth is fast."_
 
+| <img src="./assets/karla.jpeg" width="300"> |
+|:---------------------------------------------:|
+|       __Head TA: Karla Zuniga__       |
+
+- Master Student in CS! 
+- I love databases, teaching, and helping students grow. There’s no such thing as a dumb question—come to office hours, we’re here to help
+- Shift from an “I have to” to an “I get to” mindset, because learning and growing together is meaningful!_
+
+
 
 | <img src="./assets/ricky.png" width="300"> |
 |:------------------------------------------:|
