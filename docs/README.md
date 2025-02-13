@@ -122,10 +122,12 @@ This is a draft calendar. We will adjust the calendar after discussion to TAs an
 
 ## Lecture Material
 
-| Lecture No. | Lecture Date | Lecture Material |
-| :---: |:------------:| :---: |
-| 1 |  2025-01-24  | [Introduction and Concepts](https://github.com/donald-f-ferguson/W4111-Introduction-to-Databases-New/blob/main/Lectures/S2025/Lectures/W4111-2024F-01-Introduction-Concetps/W4111-2025S-01-Introduction-Concepts-V1.pdf)
-| 1 |  2025-01-31  | [Foundation: ER, Relational, SQL (1)](https://github.com/donald-f-ferguson/W4111-Introduction-to-Databases-New/blob/main/Lectures/S2025/Lectures/W4111-2025S-02-ER-Relational-SQL-1/W4111-S2025-02-ER-Relational-SQL-1.pdf)
+| Lecture No. | Lecture Date |                                                                                                      Lecture Material                                                                                                       |
+|:-----------:|:------------:|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+|      1      |  2025-01-24  |  [Introduction and Concepts](https://github.com/donald-f-ferguson/W4111-Introduction-to-Databases-New/blob/main/Lectures/S2025/Lectures/W4111-2024F-01-Introduction-Concetps/W4111-2025S-01-Introduction-Concepts-V1.pdf)   
+|      2      |  2025-01-31  | [Foundation: ER, Relational, SQL (1)](https://github.com/donald-f-ferguson/W4111-Introduction-to-Databases-New/blob/main/Lectures/S2025/Lectures/W4111-2025S-02-ER-Relational-SQL-1/W4111-S2025-02-ER-Relational-SQL-1.pdf) 
+|      3      |  2025-02-07  | [Foundation: ER, Relational, SQL (2)](https://github.com/donald-f-ferguson/W4111-Introduction-to-Databases-New/blob/main/Lectures/S2025/Lectures/W4111-2025S-03-ER-Relational-SQL-2/W4111-S2025-03-ER-Relational-SQL-2.pdf) 
+|      1      |  2025-02-14  | [Foundation: ER, Relational, SQL (3)](https://github.com/donald-f-ferguson/W4111-Introduction-to-Databases-New/blob/main/Lectures/S2025/Lectures/W4111-2025S-04-ER-Relational-SQL-3/W4111-2025S-04-ER3-Relational3-SQL3-v1.pdf) 
 
 ## Your Teaching Team
 
