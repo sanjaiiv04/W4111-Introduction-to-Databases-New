@@ -1,0 +1,874 @@
+{
+  "_id": {
+    "$oid": "672fb6ff69be6b50b9fc4fc3"
+  },
+  "seasonNum": 1,
+  "episodeNum": 1,
+  "episodeTitle": "Winter Is Coming",
+  "episodeLink": "/title/tt1480055/",
+  "episodeAirDate": "2011-04-17",
+  "episodeDescription": "Jon Arryn, the Hand of the King, is dead. King Robert Baratheon plans to ask his oldest friend, Eddard Stark, to take Jon's place. Across the sea, Viserys Targaryen plans to wed his sister to a nomadic warlord in exchange for an army.",
+  "openingSequenceLocations": [
+    "King's Landing",
+    "Winterfell",
+    "The Wall",
+    "Pentos"
+  ],
+  "scenes": [
+    {
+      "sceneStart": "0:00:40",
+      "sceneEnd": "0:01:45",
+      "location": "The Wall",
+      "subLocation": "Castle Black",
+      "characters": [
+        {
+          "name": "Gared"
+        },
+        {
+          "name": "Waymar Royce"
+        },
+        {
+          "name": "Will"
+        }
+      ]
+    },
+    {
+      "sceneStart": "0:01:45",
+      "sceneEnd": "0:03:24",
+      "location": "North of the Wall",
+      "subLocation": "The Haunted Forest",
+      "characters": [
+        {
+          "name": "Gared"
+        },
+        {
+          "name": "Waymar Royce"
+        },
+        {
+          "name": "Will"
+        }
+      ]
+    },
+    {
+      "sceneStart": "0:03:24",
+      "sceneEnd": "0:03:31",
+      "location": "North of the Wall",
+      "subLocation": "The Haunted Forest",
+      "characters": [
+        {
+          "name": "Will"
+        },
+        {
+          "name": "Wight Wildling Girl",
+          "alive": false
+        }
+      ]
+    },
+    {
+      "sceneStart": "0:03:31",
+      "sceneEnd": "0:03:38",
+      "location": "North of the Wall",
+      "subLocation": "The Haunted Forest",
+      "characters": [
+        {
+          "name": "Will"
+        }
+      ]
+    },
+    {
+      "sceneStart": "0:03:38",
+      "sceneEnd": "0:03:44",
+      "location": "North of the Wall",
+      "subLocation": "The Haunted Forest",
+      "characters": []
+    },
+    {
+      "sceneStart": "0:03:44",
+      "sceneEnd": "0:05:36",
+      "location": "North of the Wall",
+      "subLocation": "The Haunted Forest",
+      "characters": [
+        {
+          "name": "Gared"
+        },
+        {
+          "name": "Waymar Royce"
+        },
+        {
+          "name": "Will"
+        }
+      ]
+    },
+    {
+      "sceneStart": "0:05:36",
+      "sceneEnd": "0:05:41",
+      "location": "North of the Wall",
+      "subLocation": "The Haunted Forest",
+      "characters": [
+        {
+          "name": "Will"
+        }
+      ]
+    },
+    {
+      "sceneStart": "0:05:41",
+      "sceneEnd": "0:05:48",
+      "location": "North of the Wall",
+      "subLocation": "The Haunted Forest",
+      "characters": [
+        {
+          "name": "Gared"
+        },
+        {
+          "name": "Waymar Royce"
+        }
+      ]
+    },
+    {
+      "sceneStart": "0:05:48",
+      "sceneEnd": "0:05:58",
+      "location": "North of the Wall",
+      "subLocation": "The Haunted Forest",
+      "characters": [
+        {
+          "name": "Will"
+        }
+      ]
+    },
+    {
+      "sceneStart": "0:05:58",
+      "sceneEnd": "0:06:21",
+      "location": "North of the Wall",
+      "subLocation": "The Haunted Forest",
+      "characters": [
+        {
+          "name": "Gared"
+        },
+        {
+          "name": "Waymar Royce",
+          "alive": false,
+          "mannerOfDeath": "Back stab",
+          "killedBy": [
+            "White Walker"
+          ]
+        },
+        {
+          "name": "White Walker"
+        }
+      ]
+    },
+    {
+      "sceneStart": "0:06:21",
+      "sceneEnd": "0:06:39",
+      "location": "North of the Wall",
+      "subLocation": "The Haunted Forest",
+      "characters": [
+        {
+          "name": "Will"
+        }
+      ]
+    },
+    {
+      "sceneStart": "0:06:39",
+      "sceneEnd": "0:06:49",
+      "location": "North of the Wall",
+      "subLocation": "The Haunted Forest",
+      "characters": [
+        {
+          "name": "Will"
+        },
+        {
+          "name": "Wight Wildling Girl"
+        }
+      ]
+    },
+    {
+      "sceneStart": "0:06:49",
+      "sceneEnd": "0:07:45",
+      "location": "North of the Wall",
+      "subLocation": "The Haunted Forest",
+      "characters": [
+        {
+          "name": "Will"
+        },
+        {
+          "name": "Gared",
+          "alive": false,
+          "mannerOfDeath": "Decapitation",
+          "killedBy": [
+            "White Walker"
+          ]
+        },
+        {
+          "name": "White Walker"
+        }
+      ]
+    },
+    {
+      "sceneStart": "0:09:27",
+      "sceneEnd": "0:12:38",
+      "location": "The North",
+      "subLocation": "Winterfell",
+      "characters": [
+        {
+          "name": "Will"
+        },
+        {
+          "name": "Jon Snow"
+        },
+        {
+          "name": "Bran Stark"
+        },
+        {
+          "name": "Robb Stark"
+        },
+        {
+          "name": "Eddard Stark"
+        },
+        {
+          "name": "Catelyn Stark"
+        },
+        {
+          "name": "Rickon Stark"
+        },
+        {
+          "name": "Sansa Stark"
+        },
+        {
+          "name": "Arya Stark"
+        },
+        {
+          "name": "Theon Greyjoy"
+        },
+        {
+          "name": "Rodrik Cassel"
+        },
+        {
+          "name": "Septa Mordane"
+        }
+      ]
+    },
+    {
+      "sceneStart": "0:12:38",
+      "sceneEnd": "0:15:41",
+      "location": "The North",
+      "subLocation": "Outside Winterfell",
+      "characters": [
+        {
+          "name": "Will",
+          "alive": false,
+          "mannerOfDeath": "Decapitation",
+          "killedBy": [
+            "Eddard Stark"
+          ]
+        },
+        {
+          "name": "Eddard Stark",
+          "weapon": [
+            {
+              "action": "has",
+              "name": "Ice"
+            }
+          ]
+        },
+        {
+          "name": "Robb Stark"
+        },
+        {
+          "name": "Theon Greyjoy"
+        },
+        {
+          "name": "Bran Stark"
+        },
+        {
+          "name": "Rodrik Cassel"
+        },
+        {
+          "name": "Jory Cassel"
+        },
+        {
+          "name": "Jon Snow"
+        }
+      ]
+    },
+    {
+      "sceneStart": "0:15:41",
+      "sceneEnd": "0:18:44",
+      "location": "The North",
+      "subLocation": "Outside Winterfell",
+      "characters": [
+        {
+          "name": "Jon Snow"
+        },
+        {
+          "name": "Eddard Stark",
+          "weapon": [
+            {
+              "action": "has",
+              "name": "Ice"
+            }
+          ]
+        },
+        {
+          "name": "Theon Greyjoy"
+        },
+        {
+          "name": "Bran Stark"
+        },
+        {
+          "name": "Robb Stark"
+        },
+        {
+          "name": "Rodrik Cassel"
+        },
+        {
+          "name": "Jory Cassel"
+        },
+        {
+          "name": "Grey Wind"
+        },
+        {
+          "name": "Lady"
+        },
+        {
+          "name": "Nymeria"
+        },
+        {
+          "name": "Summer"
+        },
+        {
+          "name": "Shaggydog"
+        },
+        {
+          "name": "Ghost"
+        }
+      ]
+    },
+    {
+      "sceneStart": "0:18:44",
+      "sceneEnd": "0:20:45",
+      "location": "The Crownlands",
+      "subLocation": "King's Landing",
+      "characters": [
+        {
+          "name": "Jon Arryn",
+          "alive": false,
+          "title": "Hand",
+          "mannerOfDeath": "Poison",
+          "killedBy": [
+            "Lysa Arryn"
+          ]
+        },
+        {
+          "name": "Cersei Lannister"
+        },
+        {
+          "name": "Jaime Lannister"
+        }
+      ]
+    },
+    {
+      "sceneStart": "0:20:45",
+      "sceneEnd": "0:22:43",
+      "location": "The North",
+      "subLocation": "Winterfell",
+      "characters": [
+        {
+          "name": "Catelyn Stark"
+        },
+        {
+          "name": "Eddard Stark",
+          "weapon": [
+            {
+              "action": "has",
+              "name": "Ice"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "sceneStart": "0:22:43",
+      "sceneEnd": "0:23:09",
+      "location": "The North",
+      "subLocation": "Winterfell",
+      "characters": [
+        {
+          "name": "Catelyn Stark"
+        },
+        {
+          "name": "Maester Luwin"
+        }
+      ]
+    },
+    {
+      "sceneStart": "0:23:09",
+      "sceneEnd": "0:23:39",
+      "location": "The North",
+      "subLocation": "Winterfell",
+      "characters": [
+        {
+          "name": "Robb Stark"
+        },
+        {
+          "name": "Theon Greyjoy"
+        },
+        {
+          "name": "Jon Snow"
+        }
+      ]
+    },
+    {
+      "sceneStart": "0:23:39",
+      "sceneEnd": "0:29:16",
+      "location": "The North",
+      "subLocation": "Winterfell",
+      "characters": [
+        {
+          "name": "Bran Stark"
+        },
+        {
+          "name": "Catelyn Stark"
+        },
+        {
+          "name": "Maester Luwin"
+        },
+        {
+          "name": "Summer"
+        },
+        {
+          "name": "Arya Stark"
+        },
+        {
+          "name": "Joffrey Baratheon",
+          "weapon": [
+            {
+              "action": "has",
+              "name": "Lion's Tooth"
+            }
+          ]
+        },
+        {
+          "name": "Sandor Clegane"
+        },
+        {
+          "name": "Rickon Stark"
+        },
+        {
+          "name": "Eddard Stark"
+        },
+        {
+          "name": "Sansa Stark"
+        },
+        {
+          "name": "Theon Greyjoy"
+        },
+        {
+          "name": "Jon Snow"
+        },
+        {
+          "name": "Jory Cassel"
+        },
+        {
+          "name": "Hodor"
+        },
+        {
+          "name": "Rodrik Cassel"
+        },
+        {
+          "name": "Robert Baratheon",
+          "title": "King"
+        },
+        {
+          "name": "Cersei Lannister"
+        },
+        {
+          "name": "Jaime Lannister"
+        },
+        {
+          "name": "Myrcella Baratheon"
+        },
+        {
+          "name": "Tommen Baratheon"
+        }
+      ]
+    },
+    {
+      "sceneStart": "0:29:16",
+      "sceneEnd": "0:30:47",
+      "location": "The North",
+      "subLocation": "Winterfell",
+      "characters": [
+        {
+          "name": "Robert Baratheon",
+          "title": "King"
+        },
+        {
+          "name": "Eddard Stark"
+        }
+      ]
+    },
+    {
+      "sceneStart": "0:30:47",
+      "sceneEnd": "0:32:57",
+      "location": "The North",
+      "subLocation": "Winterfell",
+      "characters": [
+        {
+          "name": "Jaime Lannister"
+        },
+        {
+          "name": "Tyrion Lannister",
+          "sex": {
+            "with": [
+              "Ros"
+            ],
+            "type": "paid",
+            "when": "present"
+          }
+        },
+        {
+          "name": "Ros",
+          "sex": {
+            "with": [
+              "Tyrion Lannister"
+            ],
+            "type": "paid",
+            "when": "present"
+          }
+        }
+      ]
+    },
+    {
+      "sceneStart": "0:32:57",
+      "sceneEnd": "0:33:45",
+      "location": "The North",
+      "subLocation": "Winterfell",
+      "characters": [
+        {
+          "name": "Robert Baratheon",
+          "title": "King"
+        },
+        {
+          "name": "Eddard Stark"
+        }
+      ]
+    },
+    {
+      "sceneStart": "0:33:45",
+      "sceneEnd": "0:36:17",
+      "location": "Pentos",
+      "characters": [
+        {
+          "name": "Daenerys Targaryen"
+        },
+        {
+          "name": "Viserys Targaryen"
+        }
+      ]
+    },
+    {
+      "sceneStart": "0:36:17",
+      "sceneEnd": "0:38:23",
+      "location": "Pentos",
+      "characters": [
+        {
+          "name": "Daenerys Targaryen"
+        },
+        {
+          "name": "Viserys Targaryen"
+        },
+        {
+          "name": "Illyrio Mopatis"
+        },
+        {
+          "name": "Khal Drogo",
+          "title": "Khal"
+        },
+        {
+          "name": "Qotho"
+        }
+      ]
+    },
+    {
+      "sceneStart": "0:38:23",
+      "sceneEnd": "0:40:05",
+      "location": "Pentos",
+      "characters": [
+        {
+          "name": "Viserys Targaryen"
+        },
+        {
+          "name": "Illyrio Mopatis"
+        },
+        {
+          "name": "Daenerys Targaryen"
+        }
+      ]
+    },
+    {
+      "sceneStart": "0:40:05",
+      "sceneEnd": "0:40:56",
+      "location": "The North",
+      "subLocation": "Winterfell",
+      "characters": [
+        {
+          "name": "Catelyn Stark"
+        },
+        {
+          "name": "Sansa Stark"
+        }
+      ]
+    },
+    {
+      "sceneStart": "0:40:56",
+      "sceneEnd": "0:41:19",
+      "location": "The North",
+      "subLocation": "Winterfell",
+      "characters": [
+        {
+          "name": "Robert Baratheon",
+          "title": "King"
+        },
+        {
+          "name": "Catelyn Stark"
+        },
+        {
+          "name": "Cersei Lannister"
+        },
+        {
+          "name": "Rodrik Cassel"
+        }
+      ]
+    },
+    {
+      "sceneStart": "0:41:19",
+      "sceneEnd": "0:44:14",
+      "location": "The North",
+      "subLocation": "Winterfell",
+      "characters": [
+        {
+          "name": "Jon Snow"
+        },
+        {
+          "name": "Benjen Stark"
+        },
+        {
+          "name": "Tyrion Lannister"
+        }
+      ]
+    },
+    {
+      "sceneStart": "0:44:14",
+      "sceneEnd": "0:47:28",
+      "location": "The North",
+      "subLocation": "Winterfell",
+      "characters": [
+        {
+          "name": "Rodrik Cassel"
+        },
+        {
+          "name": "Benjen Stark"
+        },
+        {
+          "name": "Eddard Stark"
+        },
+        {
+          "name": "Robb Stark"
+        },
+        {
+          "name": "Robert Baratheon",
+          "title": "King"
+        },
+        {
+          "name": "Catelyn Stark"
+        },
+        {
+          "name": "Cersei Lannister"
+        },
+        {
+          "name": "Sansa Stark"
+        },
+        {
+          "name": "Joffrey Baratheon"
+        },
+        {
+          "name": "Jaime Lannister"
+        },
+        {
+          "name": "Arya Stark"
+        },
+        {
+          "name": "Theon Greyjoy"
+        }
+      ]
+    },
+    {
+      "sceneStart": "0:47:28",
+      "sceneEnd": "0:50:29",
+      "location": "The North",
+      "subLocation": "Winterfell",
+      "characters": [
+        {
+          "name": "Eddard Stark"
+        },
+        {
+          "name": "Catelyn Stark"
+        },
+        {
+          "name": "Maester Luwin"
+        }
+      ]
+    },
+    {
+      "sceneStart": "0:50:29",
+      "sceneEnd": "0:56:05",
+      "location": "Pentos",
+      "characters": [
+        {
+          "name": "Khal Drogo",
+          "title": "Khal",
+          "married": {
+            "to": "Daenerys Targaryen",
+            "when": "present",
+            "type": "arranged",
+            "consummated": true
+          }
+        },
+        {
+          "name": "Daenerys Targaryen",
+          "title": "Khaleesi",
+          "married": {
+            "to": "Khal Drogo",
+            "when": "present",
+            "type": "arranged",
+            "consummated": true
+          }
+        },
+        {
+          "name": "Viserys Targaryen"
+        },
+        {
+          "name": "Illyrio Mopatis"
+        },
+        {
+          "name": "Qotho"
+        },
+        {
+          "name": "Jorah Mormont"
+        },
+        {
+          "name": "Drogon",
+          "born": false
+        },
+        {
+          "name": "Rhaegal",
+          "born": false
+        },
+        {
+          "name": "Viserion",
+          "born": false
+        }
+      ]
+    },
+    {
+      "sceneStart": "0:56:05",
+      "sceneEnd": "0:57:48",
+      "location": "Pentos",
+      "characters": [
+        {
+          "name": "Khal Drogo",
+          "title": "Khal",
+          "sex": {
+            "with": [
+              "Daenerys Targaryen"
+            ],
+            "when": "present",
+            "type": "rape"
+          }
+        },
+        {
+          "name": "Daenerys Targaryen",
+          "title": "Khaleesi",
+          "sex": {
+            "with": [
+              "Khal Drogo"
+            ],
+            "when": "present",
+            "type": "rape"
+          }
+        }
+      ]
+    },
+    {
+      "sceneStart": "0:57:48",
+      "sceneEnd": "0:59:06",
+      "location": "The North",
+      "subLocation": "Winterfell",
+      "characters": [
+        {
+          "name": "Tyrion Lannister"
+        },
+        {
+          "name": "Sandor Clegane"
+        },
+        {
+          "name": "Theon Greyjoy"
+        },
+        {
+          "name": "Eddard Stark"
+        },
+        {
+          "name": "Benjen Stark"
+        },
+        {
+          "name": "Robb Stark"
+        },
+        {
+          "name": "Robert Baratheon",
+          "title": "King"
+        },
+        {
+          "name": "Bran Stark"
+        },
+        {
+          "name": "Summer"
+        }
+      ]
+    },
+    {
+      "sceneStart": "0:59:06",
+      "sceneEnd": "1:00:57",
+      "location": "The North",
+      "subLocation": "Winterfell",
+      "characters": [
+        {
+          "name": "Bran Stark"
+        },
+        {
+          "name": "Summer"
+        },
+        {
+          "name": "Jaime Lannister",
+          "sex": {
+            "with": [
+              "Cersei Lannister"
+            ],
+            "when": "present",
+            "type": "love"
+          }
+        },
+        {
+          "name": "Cersei Lannister",
+          "sex": {
+            "with": [
+              "Jaime Lannister"
+            ],
+            "when": "present",
+            "type": "love"
+          }
+        }
+      ]
+    }
+  ]
+}
