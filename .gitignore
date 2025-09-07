@@ -172,3 +172,7 @@ cython_debug/
 # PyPI configuration file
 .pypirc
 /Lectures/S2025/Lectures/W4111-2025S-08-Module-II-NoSQL-1/my_secrets.py
+/Homework/solutions/
+/Homework/HW5/HW5-Non-Programming/private_HW5_non_programming_v1.ipynb
+/PRIVATE-Exams/
+/Homework/OLD/
