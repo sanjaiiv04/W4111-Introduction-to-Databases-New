@@ -1,0 +1,33 @@
+name: Sync Fork with Upstream
+
+on:
+  schedule:
+    - cron: '0 0 * * *'   # runs once every day at midnight UTC
+  workflow_dispatch:       # lets you trigger manually from Actions tab
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout fork
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+
+      - name: Set up Git
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+      - name: Add upstream remote
+        run: git remote add upstream https://github.com/<donald-f-ferguson>/<W4111-Introduction-to-Databases-New>.git
+
+      - name: Fetch upstream
+        run: git fetch upstream
+
+      - name: Merge upstream into fork
+        run: |
+          git checkout main
+          git merge upstream/main --no-edit || true
+          git push origin main
